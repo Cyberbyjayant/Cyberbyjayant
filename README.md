@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jayantkumawat/))
 [![Email](https://img.shields.io/badge/Email-ijaykumawat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaykumawat@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Rajasthan%2C%20India-228B22?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Pune%2C%20India-228B22?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune,India)
 [![Available](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge)]()
 
 </div>
