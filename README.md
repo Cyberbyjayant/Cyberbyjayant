@@ -250,6 +250,4 @@ open [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jayantk
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jayantkumawat&color=00C853&style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00C853&style=for-the-badge)
-
 </div>
