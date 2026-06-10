@@ -236,7 +236,7 @@ Research Publication:
 # ✔  Security awareness training for teams
 # ✔  Full-time roles — AI Security Engineer / Senior Security Analyst
 
-echo "Let's connect and make your organisation more secure."
+"Let's connect and make your organisation more secure."
 
 open mailto:- ijaykumawat@gmail.com
 open [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jayantkumawat/)
