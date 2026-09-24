@@ -152,7 +152,9 @@ A self-built **Information Security Management System** covering:
 - Vendor Tiering
 - Due-Diligence Questionnaires
 
-**Repository:** `Add GitHub repository URL`
+<a href="https://github.com/Cyberbyjayant/ISO-27001-ISMS-Implementation">
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge" alt="View Project">
+</a>
 
 ---
 
@@ -166,7 +168,10 @@ End-to-end vulnerability management program design using **Qualys**, including:
 - Executive dashboards
 - Stakeholder reporting
 
-**Repository:** `[Add GitHub repository URL](https://github.com/Cyberbyjayant/Enterprise-Vulnerability-Management-Program-using-Qualys)`
+<a href="https://github.com/Cyberbyjayant/Enterprise-Vulnerability-Management-Program-using-Qualys">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+</a>
+
 
 ---
 
@@ -181,7 +186,9 @@ A socket-based cybersecurity learning project for:
 - Multi-target scanning
 - Structured security reporting
 
-**Repository:** `Add GitHub repository URL`
+<a href="https://github.com/Cyberbyjayant/Vulnerability-Scanning-tool">
+  <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge" alt="View Project">
+</a>
 
 ---
 
