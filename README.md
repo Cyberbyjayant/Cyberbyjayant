@@ -1,253 +1,282 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║         JAYANT KUMAWAT  ·  CYBERSECURITY ANALYST         ║
-║         VM  ·  IAM  ·  GRC  ·  AI SECURITY               ║
-╚══════════════════════════════════════════════════════════╝
-```
+# JAYANT KUMAWAT
+### Cybersecurity Analyst · GRC · Vulnerability Management · TPRM · AI Governance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayantkumawat/)
-[![Email](https://img.shields.io/badge/Email-ijaykumawat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaykumawat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ijaykumawat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaykumawat@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pune%2C%20India-228B22?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune,India)
-[![Available](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge)]()
 
 </div>
 
 ---
 
-## `> Whoami`
+## `> whoami`
 
 ```yaml
 Name        : Jayant Kumawat
-Role        : Cybersecurity Analyst → AI Security Engineer (in progress)
-Experience  : 4+ years  |  TCS (current)
-Speciality  : Vulnerability Management · IAM · GRC · TPRM · AI Security
-Goal        : Build India's leading AI-powered Cybersecurity Consulting firm
-Available   : Immediately · Open to freelance & consulting engagements
+Role        : GRC & IT Risk Analyst
+Speciality  : Vulnerability Management · TPRM · ISO 27001 · IT Risk
+Focus       : Technical Security × Governance × Risk
+Current     : Building deeper expertise in AI Governance
+Location    : Pune, India
 ```
 
-> *From Electrical Engineering to Cybersecurity to AI Security — I bridge technical depth with business communication. I help companies find, prioritise, and fix security risks before attackers do.*
+> I work at the intersection of **technical security and governance** — turning vulnerability data, third-party risk, and security controls into decisions that leadership can act on.
+
+My work focuses on identifying security exposure, assessing risk, improving governance, and communicating technical findings in a business-ready format.
 
 ---
 
-## `> Skills`
+## `> Core Expertise`
 
-### 🔍 Vulnerability Management *(Primary Strength)*
-```
-Tools     →  Tenable.SC · Qualys · Nessus Manager · Microsoft 365 Defender
-Methods   →  CVSS Scoring · Risk-based Prioritisation · SLA Tracking
-Scope     →  1000+ critical assets managed across enterprise environments
-Results   →  45% reduction in manual audit prep · 20% reduction in org risk
-```
+### 🔍 Vulnerability Management
 
-### 🔐 Identity & Access Management
-```
-Platforms →  Okta · Azure Active Directory · Active Directory · IBM AS400
-Skills    →  SAML Integration · SSO · MFA · PAM · Access Certification
-Protocols →  Zero Trust · Least Privilege · RBAC · AD/IWA Agent Deployment
-Results   →  30% reduction in compliance deviations
+```text
+Platforms   → Qualys VMDR · Tenable.SC · Nessus
+Methods     → Vulnerability Assessment · CVSS · Risk-Based Prioritisation
+Activities  → Asset Exposure · Remediation Tracking · SLA Monitoring
+Reporting   → Executive Dashboards · Risk Metrics · Stakeholder Reporting
 ```
 
-### 📋 Governance, Risk & Compliance
-```
-Frameworks →  ISO 27001 · NIST CSF · GDPR · HIPAA · SOX · GxP
-Activities →  Audit Support · Risk Registers · BIA · Executive Reporting
-Outputs   →  Security Dashboards · Compliance Reports · CISO Briefings
-Results   →  25% improvement in compliance adherence
-```
-
-### 🤖 AI Security *(Learning — 2025–2026)*
-```
-Focus     →  LLM Security · Prompt Injection · AI Red Teaming
-Standards →  OWASP LLM Top 10 · Adversarial AI · Secure AI Deployment
-Tools     →  LangChain · RAG Systems · OpenAI API · OLLAMA
-Building  →  AI-powered security tools & automated threat detection
-```
-
-### ☁️ Cloud & Infrastructure
-```
-Platforms →  AWS · Azure · GCP (Fundamentals)
-Security  →  Cloud Security Posture · Shared Responsibility Model
-OS        →  Linux (RHEL, Ubuntu) · Windows Server
-```
-
-### 💻 Programming & Scripting
-```
-Languages →  Python · Bash · SQL
-Use Cases →  Security Automation · Compliance Reporting · Log Analysis
-Databases →  MySQL · PostgreSQL · MongoDB · Microsoft SQL Server
-Tools     →  Git · GitHub · Wireshark · Nmap · Burp Suite · Metasploit
-```
+**Focus:** Designing and operating vulnerability management processes across large-scale IT/OT environments.
 
 ---
 
-## `> Certifications`
+### 🛡️ Governance, Risk & Compliance
 
-| Certification | Issuer | Year | Status |
-|---|---|---|---|
-| 🏆 Service & Commitment Award — TCS Gems | Tata Consultancy Services | 2025 | ✅ Awarded |
-| 🛡️ Vulnerability Management Mastery | Professional Development | 2025 | ✅ Completed |
-| 🔓 OWASP Top 10 — Deep Dive | OWASP | 2025 | ✅ Completed |
-| 🤖 Prompt Engineering Certificate | Professional Development | 2025 | ✅ Completed |
-| 🎯 TCS Product Specialist Program (PSP) | Tata Consultancy Services | 2023 | ✅ Completed |
-| 🌐 Ethical Hacking: Network Scan (Nmap & Nessus) | Professional Development | 2023 | ✅ Completed |
-| 🏅 Learning Achievement Award | TCS Corporate Talent Development | 2023 | ✅ Awarded |
-| 📊 Splunk Beginner Course | Splunk | 2022 | ✅ Completed |
-| 🎓 CompTIA Security+ | CompTIA | 2026 | 🔄 In Progress |
-| 🏛️ CISM | ISACA | 2027 | 📅 Planned |
+```text
+Frameworks  → ISO/IEC 27001 · ISO 27001:2022
+Activities  → Risk Registers · Control Mapping · SoA · Audit Readiness
+Controls    → Annex A · Information Security Controls
+Reporting   → Management Reporting · Risk Communication
+```
+
+**Focus:** Building practical security governance programs that connect controls, risk, evidence, and business requirements.
 
 ---
 
-## `> Experience`
+### 🤝 Third-Party Risk Management
 
-### Tata Consultancy Services · System Engineer *(May 2022 – Present)*
+```text
+Assessment  → Vendor Security Reviews · Due Diligence
+Evidence    → SOC 2 Type II · ISO 27001 Certification Scope
+Method      → Vendor Tiering · Exposure Assessment
+Outputs     → Risk Assessments · Questionnaires · TPRM Processes
+```
 
-**Client: Global Life Sciences & Pharma (Switzerland)**
-- Led enterprise Vulnerability Management across **1000+ critical assets** using Tenable.SC, Qualys, Nessus, and Microsoft 365 Defender
-- Delivered risk-based prioritisation with CVSS scoring aligned to **ISO 27001, GDPR, HIPAA, and GxP**
-- Built real-time compliance dashboards — cut audit prep time by **45%**
-- Authored Configuration Management, Vulnerability Remediation, and Third-Party Risk Standards aligned to **NIST CSF**
-- Delivered executive risk reports to CISOs and compliance boards
-- Reduced organisational risk by **20%** · Improved compliance adherence by **25%**
-
-**Client: Automotive (Japan)**
-- Managed end-to-end **IAM lifecycle** — onboarding, offboarding, PAM, access certifications via Okta, AD, AS400
-- Designed and implemented **SAML-based SSO integrations** in Okta
-- Conducted weekly IAM audits — **SOX, GDPR, ISO 27001** compliance
-- Reduced compliance deviations by **30%** · Achieved **100% regulatory adherence**
-
-**Client: IoT (Japan)**
-- Led **Proof-of-Concept** for SSO & MFA integration across enterprise apps — Zero Trust strategy
-- Developed and enforced GRC policies — improved policy compliance by **18%**
-- Trained staff on risk management — increased risk awareness by **25%**
+**Focus:** Assessing vendor exposure and translating third-party security information into structured risk decisions.
 
 ---
 
-## `> Services`
+### 🤖 AI Governance
 
-> **Available for consulting and freelance engagements. Here is what I can deliver for your organisation:**
-
-### 🔍 Vulnerability Assessment & Management
-```
-✔  Enterprise vulnerability scanning (Qualys / Nessus / Tenable)
-✔  Risk-based remediation prioritisation with CVSS scoring
-✔  Vulnerability management program setup from scratch
-✔  Executive dashboards and board-level reporting
-✔  SLA tracking and compliance reporting
-Ideal for: Startups · SMEs · Companies preparing for audits
+```text
+Focus       → AI Governance · AI Vendor Risk
+Frameworks  → NIST AI RMF · ISO/IEC 42001 Fundamentals
+Approach    → Applying TPRM Methodology to AI Vendor Assessments
+Status      → Currently Learning / Self-Directed Study
 ```
 
-### 🛡️ Security Program Setup (GRC)
-```
-✔  ISO 27001 gap assessment and implementation roadmap
-✔  NIST CSF alignment review
-✔  Risk register creation and maintenance
-✔  Security policy drafting (VM, Config Management, TPRM)
-✔  Business Impact Analysis (BIA)
-Ideal for: Companies seeking ISO 27001 certification · Audit readiness
-```
+**Focus:** Understanding how established governance and third-party risk practices can be applied to AI adoption and AI vendor risk.
 
-### 🔐 Identity & Access Management Review
-```
-✔  IAM lifecycle audit and gap analysis
-✔  Okta / Azure AD / Active Directory health check
-✔  Privileged Access Management (PAM) assessment
-✔  Access certification and provisioning review
-✔  SAML / SSO troubleshooting and implementation support
-Ideal for: Companies with IAM compliance gaps · Pre-audit cleanup
-```
+---
 
-### 📊 Third Party Risk Management (TPRM)
-```
-✔  Vendor security questionnaire design and review
-✔  Third-party risk assessment and scoring
-✔  TPRM framework setup aligned to ISO / NIST
-✔  Ongoing vendor monitoring program
-Ideal for: Enterprises onboarding new vendors · Supply chain risk
-```
+## `> Technical Stack`
 
-### 🤖 AI Security Consulting *(2026 onwards)*
-```
-✔  LLM security assessment (OWASP LLM Top 10)
-✔  Prompt injection testing and remediation
-✔  AI governance framework design
-✔  Secure AI deployment review
-✔  AI red teaming for enterprise applications
-Ideal for: Companies deploying AI tools · AI product startups
+### Security & Risk
+
+![ISO 27001](https://img.shields.io/badge/ISO_27001-1F3864?style=flat-square)
+![SOC 2](https://img.shields.io/badge/SOC_2-1F3864?style=flat-square)
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-1F3864?style=flat-square)
+![CVSS](https://img.shields.io/badge/CVSS_Scoring-1F3864?style=flat-square)
+![TPRM](https://img.shields.io/badge/Third--Party_Risk-1F3864?style=flat-square)
+
+### Vulnerability & Security Tools
+
+![Qualys](https://img.shields.io/badge/Qualys_VMDR-DA1F27?style=flat-square)
+![Tenable](https://img.shields.io/badge/Tenable.SC-00C58E?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-1B6EC2?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+
+### Data, Cloud & Automation
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## `> Professional Capabilities`
+
+```text
+Vulnerability Management
+├── Enterprise vulnerability assessment
+├── Risk-based prioritisation
+├── CVSS-based analysis
+├── Remediation SLA tracking
+└── Executive vulnerability reporting
+
+Third-Party Risk Management
+├── Vendor security assessment
+├── SOC 2 Type II review
+├── ISO 27001 scope review
+├── Vendor tiering
+└── Due-diligence questionnaires
+
+GRC & IT Risk
+├── ISO 27001-aligned governance
+├── Risk register development
+├── Annex A control mapping
+├── Statement of Applicability
+└── Leadership / board-ready reporting
 ```
 
 ---
 
-## `> Future Goals`
+## `> Featured Projects`
+
+### 🔐 ISO 27001 ISMS Implementation
+
+A self-built **Information Security Management System** covering:
+
+- Risk Register
+- Tangible & Intangible Asset Register
+- Statement of Applicability
+- Core Information Security Policies
+- Control Mapping
+- Third-Party Risk Management Process
+- Vendor Tiering
+- Due-Diligence Questionnaires
+
+**Repository:** `Add GitHub repository URL`
+
+---
+
+### 🔍 Enterprise Vulnerability Management Program Design
+
+End-to-end vulnerability management program design using **Qualys**, including:
+
+- Vulnerability findings and asset exposure tracking
+- Remediation SLA monitoring
+- Risk-based prioritisation logic
+- Executive dashboards
+- Stakeholder reporting
+
+**Repository:** `Add GitHub repository URL`
+
+---
+
+### 🐍 Python TCP Security Scanner
+
+A socket-based cybersecurity learning project for:
+
+- TCP port scanning
+- Service identification
+- Banner fingerprinting
+- Basic web-server assessment
+- Multi-target scanning
+- Structured security reporting
+
+**Repository:** `Add GitHub repository URL`
+
+---
+
+## `> Certifications & Learning`
+
+| Credential / Program | Issuer / Source | Status |
+|---|---|---|
+| 🛡️ Qualys Certified Specialist — VMDR | Qualys | ✅ Certified |
+| 📋 CISA — Certified Information Systems Auditor | ISACA | 🔄 In Progress |
+| 🔐 ISO/IEC 27001:2022 — Information Security Controls & Implementation | Professional Development | ✅ Completed |
+| 🕸️ OWASP Top 10 — Deep Dive | OWASP | ✅ Completed |
+| 🌐 Ethical Hacking — Network Scanning | Nmap & Nessus | ✅ Completed |
+
+> Certification status is presented based on the latest profile information supplied for this README.
+
+---
+
+## `> Currently Learning`
 
 ```python
-# What I am working on right now — 2025 to 2026
-
-current_focus = {
-    "learning"    : ["Cybersecurity Fundamentals", "GenAI & LangChain", 
-                     "OWASP LLM Top 10", "Prompt Injection Attacks"],
-    "building"    : ["AI-powered vulnerability report generator",
-                     "Security log analyser using LangChain",
-                     "Automated TPRM questionnaire tool"],
-    "certifying"  : ["CompTIA Security+ — 2026"],
-    "publishing"  : ["LinkedIn — weekly AI + security insights",
-                     "GitHub — security automation projects"],
-    "goal_2027"   : "AI Security Engineer · ₹20+ LPA · First consulting client"
+learning = {
+    "ai_governance": [
+        "NIST AI RMF",
+        "ISO/IEC 42001 fundamentals"
+    ],
+    "application": [
+        "AI vendor risk assessment",
+        "TPRM methodology for AI adoption"
+    ],
+    "direction": "Security Governance × AI Risk"
 }
 ```
 
 ---
 
-## `> Projects`
+## `> What I Bring`
 
-> *Projects will be published here as they are completed. Watch this space.*
+```text
+01  Technical Security
+    Understand vulnerability exposure and security findings.
 
-| Project | Stack | Status | Description |
-|---|---|---|---|
-| 🔄 AI-Powered Vuln Report Generator | Python · LangChain · Qualys API | Building | Automates vulnerability report creation using LLM |
-| 🔄 Security Log Analyser | Python · Splunk · OpenAI API | Planned | Detects anomalies in security logs using AI |
-| 🔄 TPRM Questionnaire Automator | Python · LangChain · Streamlit | Planned | Auto-generates vendor risk questionnaires |
-| 🔄 Prompt Injection Lab | Python · OLLAMA · LangChain | Planned | Demonstrates and defends against LLM attacks |
+02  Risk Thinking
+    Translate technical findings into business risk.
 
----
+03  Governance
+    Connect risks with controls, frameworks, evidence, and accountability.
 
-## `> Education Background`
+04  Third-Party Risk
+    Assess vendors using structured security and exposure criteria.
 
-```
-B.Tech — Electrical Engineering
-Swami Keshwanand Institute of Technology, Jaipur, Rajasthan
-Graduated: 2021
-
-Research Publication:
-"Design a Pulse Generator with 3rd Harmonic Injection
- for a Neutral Point Clamp Inverter" — IJIRT 2021
+05  Executive Communication
+    Turn complex security information into clear decision-support reporting.
 ```
 
 ---
 
-## `> Hire me`
+## `> Career Direction`
 
-```bash
-# I am available for:
-# ✔  Freelance security assessments
-# ✔  Consulting engagements (GRC, VM, IAM, TPRM)
-# ✔  AI Security advisory (from 2026)
-# ✔  Security awareness training for teams
-# ✔  Full-time roles — AI Security Engineer / Senior Security Analyst
+```yaml
+Current_Focus:
+  - GRC & IT Risk
+  - Vulnerability Management
+  - Third-Party Risk Management
+  - ISO 27001 Governance
 
-"Let's connect and make your organisation more secure."
+Emerging_Focus:
+  - AI Governance
+  - AI Vendor Risk
+  - Responsible AI Security Practices
 
-open mailto:- ijaykumawat@gmail.com
-open [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jayantkumawat/)
+Long_Term:
+  - Security Governance
+  - AI Security & Risk
+  - Cybersecurity Consulting
 ```
+
+---
+
+## `> Connect`
 
 <div align="center">
 
+**Open to opportunities across GRC, IT Risk, Vulnerability Management, and Third-Party Risk.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayant%20Kumawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayantkumawat/)
+[![Email](https://img.shields.io/badge/Email-ijaykumawat%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijaykumawat@gmail.com)
+
+</div>
+
 ---
 
-*"Security is not a product. It is a process. I help organisations build that process."*
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jayantkumawat&color=00C853&style=for-the-badge)
+> **Security becomes actionable when technical exposure is translated into business risk.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=jayantkumawat&style=for-the-badge)
 
 </div>
