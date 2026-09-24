@@ -166,7 +166,7 @@ End-to-end vulnerability management program design using **Qualys**, including:
 - Executive dashboards
 - Stakeholder reporting
 
-**Repository:** `Add GitHub repository URL`
+**Repository:** `[Add GitHub repository URL](https://github.com/Cyberbyjayant/Enterprise-Vulnerability-Management-Program-using-Qualys)`
 
 ---
 
